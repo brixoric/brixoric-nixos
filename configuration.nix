@@ -108,6 +108,17 @@
     gimp
     vscode
     libreoffice-fresh
+    element-desktop
+    nodejs
+    python3
+    jetbrains.pycharm-community
+    pkgs.gnome3.gnome-tweaks
+    prismlauncher
+    neofetch
+    jetbrains-toolbox
+    jetbrains.idea-community
+    gparted
+    inkscape
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
