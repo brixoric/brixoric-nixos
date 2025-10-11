@@ -119,6 +119,8 @@
     jetbrains.idea-community
     gparted
     inkscape
+    pkgs.qemu
+    qemu_kvm
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
